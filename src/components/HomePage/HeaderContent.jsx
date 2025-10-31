@@ -1,6 +1,5 @@
 import { useEffect } from "react";
-import '../../App.css'
-import '../../Index.css'
+
 
 const HeaderContent = () => {
 

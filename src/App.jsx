@@ -2,7 +2,7 @@ import { useState } from 'react'
 import reactLogo from './assets/react.svg'
 import viteLogo from '/vite.svg'
 import './App.css'
-import CentralHub from './components/Centralhub/Centralhub'
+import CentralHub from './components/Centralhub/CentralHub'
 import HomePage from './components/HomePage/HomePage'
 import { FilterProvider } from './components/ContextData/FilterContext'
 
